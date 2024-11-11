@@ -81,9 +81,6 @@ header {
         color: white;
     }
 
-      #fff{
-
-      }
 .food-img{
     width: 400px;
     height: auto;
@@ -237,9 +234,8 @@ header {
         color: white;
     }
 
-      #fff{
-
-      }
+     
+      
 .food-img{
     width: 350px;
     height: auto;
@@ -339,10 +335,7 @@ button{
 .Company-text{
   justify-content: space-around;
 }
-.fdd{
- 
 
-}
 .Company-text > span{
   font-size: 100px;
 
